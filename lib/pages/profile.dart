@@ -14,7 +14,7 @@ class UserProfilePage extends StatelessWidget {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            "build_with_drew",
+            "drew",
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
           backgroundColor: Colors.transparent,
